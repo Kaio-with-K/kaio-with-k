@@ -1,7 +1,7 @@
 # Prazer! Me chamem de Kaio com K
 
 - 💻 Hoje trabalho como professor de informática, designer e técnico.
-- 📘 Estudo React, JS e Python.
+- 📘 Estudo C#, DotNet 8.0.
 
 ##
 
