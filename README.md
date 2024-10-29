@@ -24,7 +24,7 @@
 
 <br><br>
   
-### Entrem em contato comigo
+### Contact me
  
 <div> 
   <a href="https://www.youtube.com/@markliados9419" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
