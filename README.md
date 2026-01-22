@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kaio Santana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaio-with-K&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&base=1000&abbreviated=true" alt="Profile views" /> </p>
 
-- 💻 I currently work as a Technology Teacher.
+- 💻 I am currently working as an IT Support Technician.
 - 🎨 Graduated in Graphic Design.
 - 🎓 I am studying Systems Analysis and Development in college.
 - 🖥️ Back-end Developer.
